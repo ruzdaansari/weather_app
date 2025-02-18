@@ -18,7 +18,7 @@ A simple React-based Weather App that fetches real-time weather data for a user-
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/ruzdaansari/weather-app.git
    ```
 2. Navigate to the project directory:
    ```sh
